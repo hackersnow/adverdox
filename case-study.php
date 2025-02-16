@@ -5,7 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+    <title>Adverdox Portfolio - Our Digital Solutions & Successful Projects</title>
+    <meta name="description" content="Explore the successful projects we've delivered at Adverdox, showcasing our expertise in Website Development, Android App Development, CRM & ERP Solutions, Graphics Design, and Digital Marketing. See how our tailored solutions have empowered businesses across India.">
+    <meta name="keywords" content="Adverdox Portfolio, Web Development Projects, Android App Development, CRM Solutions, ERP Development, Digital Marketing Case Studies, Graphics Design Portfolio, Successful Projects India">
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 

@@ -21,8 +21,8 @@
             </ul>
             <div class="right-info">
                 <ul class="site-link">
-                    <li><a href="#0">info@adverdox.com</a></li>
-                    <li><a href="tel:+3929299999">+91 8287727107</a></li>
+                    <li><a href="mail:info@adverdox.com">info@adverdox.com</a></li>
+                    <li><a href="tel:+919313707093">+91 9313707093, +91 8287727107</a></li>
                 </ul>
                 <ul class="link-info">
                     <li>

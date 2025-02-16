@@ -7,7 +7,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+   
+    <title>Affordable Pricing for Website Development, App Development, CRM Solutions & More</title>
+    <meta name="description" content="Explore our competitive pricing for custom Website Development, Android Apps, CRM & ERP Solutions, Graphics Design, and Digital Marketing services. At Adverdox, we offer cost-effective solutions that deliver exceptional value for businesses of all sizes across India.">
+    <meta name="keywords" content="Website Development Pricing India, Affordable Web Design, CRM Software Pricing, ERP Solutions Cost, Android App Development Price, Digital Marketing Services Cost">
+
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 

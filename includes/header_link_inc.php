@@ -1,4 +1,4 @@
-    <link rel="shortcut icon" href="assets/images/favicon.png">
+    <link rel="shortcut icon" href="assets/images/logo/favicon.png">
     <!-- Bootstarp min css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Mean menu css -->

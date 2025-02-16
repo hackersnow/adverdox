@@ -2,11 +2,20 @@
 <html lang="en">
 
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+
+    <title>Our Services - Website Development, Android Apps, CRM & ERP Solutions, Graphics Design, SEO & Digital
+        Marketing</title>
+    <meta name="description"
+        content="Adverdox offers a comprehensive suite of services to elevate your business: Custom Website Development, Android App Development, CRM & ERP Solutions, Graphics Design, and SEO & Digital Marketing. Tailored to your unique business needs, our expert team delivers results-driven, high-quality solutions.">
+    <meta name="keywords"
+        content="Website Development India, Android App Development, CRM Solutions, ERP Development, Graphics Design, SEO & Digital Marketing, Custom Web Design, Software Development India">
+
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 
@@ -510,6 +519,7 @@
         <i class="fa-solid fa-chevron-up"></i>
     </button>
     <!-- Back to top btn area end here -->
-     <?php include_once('includes/footer_link_inc.php'); ?>
+    <?php include_once('includes/footer_link_inc.php'); ?>
 </body>
+
 </html>

@@ -5,7 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+  
+    <title>Adverdox Blog - Latest Insights on Web Development, Digital Marketing, and More</title>
+    <meta name="description" content="Stay updated with the latest trends and best practices in website development, digital marketing, CRM & ERP solutions, and more through Adverdox’s blog. Our articles offer valuable insights for businesses looking to thrive in the digital world.">
+    <meta name="keywords" content="Web Development Blog, Digital Marketing Tips, CRM Solutions Blog, SEO Insights, Android App Development News, Latest Technology Trends">
+   
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 

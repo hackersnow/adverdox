@@ -5,7 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+
+    <title>Contact Adverdox - Get in Touch with India’s Leading Digital Solutions Company</title>
+    <meta name="description" content="Contact Adverdox for high-quality website development, Android app development, CRM & ERP solutions, and digital marketing services. Our team is ready to help you achieve your business goals with tailored digital solutions across India.">
+    <meta name="keywords" content="Contact Adverdox, Digital Solutions India, Web Development India, CRM Solutions India, SEO Services, Android App Development Contact">
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 
@@ -45,28 +49,25 @@
                             <div class="contact__item-left">
                                 <div class="section-header mb-60">
                                     <h2 class="fw-300">We’d Love to Hear From You!</h2>
-                                    <p>Your insights matter! Drop us a line and share your thoughts. AgenShark values
-                                        your
-                                        feedback and looks forward to
-                                        hearing from you.</p>
+                                    <p>Your insights matter! Drop us a line and share your thoughts. Adverdox values your feedback and looks forward to hearing from you. Let’s connect and make your vision a reality!</p>
                                 </div>
                                 <div class="contact__content">
                                     <div class="mb-30">
                                         <h5>Email Address</h5>
-                                        <p>contact@agenshark.com</p>
+                                        <p>info@adverdox.com</p>
                                     </div>
                                     <div class="mb-30">
                                         <h5>Phone Number</h5>
-                                        <p>+1 (123) 456-7890</p>
+                                        <p>+91 9313707093, +91 8287727107</p>
                                     </div>
                                     <div class="mb-30">
-                                        <h5>Headquarters Address</h5>
-                                        <p>7 York Street London, United Kingdom</p>
+                                        <h5> Address</h5>
+                                        <p> Inder Enclave, Kirari Suleman Nagar, Delhi, 110086</p>
                                     </div>
                                     <div>
                                         <h5>Business Hours</h5>
                                         <p>Monday- Friday, <br>
-                                            10;00 AM to 05:00 PM</p>
+                                            10;00 AM to 06:30 PM</p>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +106,7 @@
             <!-- Contact area end here -->
 
             <!-- Marquee area start here -->
-            <section class="marquee-two-area page-contact">
+            <!-- <section class="marquee-two-area page-contact">
                 <div class="marquee__wrp">
                     <div class="marquee__slide">
                         <div class="marquee-two__item-wrp">
@@ -258,14 +259,13 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Marquee area end here -->
 
             <!-- Google map area end here -->
             <div class="contact__map">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15058515.66665815!2d24.50707531408513!3d22.861846684360664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15e7b33fe7952a41%3A0x5960504bc21ab69b!2sSaudi%20Arabia!5e0!3m2!1sen!2sbd!4v1713636459047!5m2!1sen!2sbd"
-                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+               
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.4164661442287!2d77.04311487485262!3d28.707097380691827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d067bc9ea1995%3A0x3cb7646b7703bea1!2sInder%20Enclave%2C%20Kirari%20Suleman%20Nagar%2C%20Delhi!5e0!3m2!1sen!2sin!4v1739713039591!5m2!1sen!2sin"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
             <!-- Google map area end here -->
 

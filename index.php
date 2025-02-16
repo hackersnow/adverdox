@@ -5,8 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
-    <!-- Favicon img -->
+   
+    <title>Adverdox - Leading Digital Solutions Provider in India | Custom Web Development & CRM Solutions</title>
+    <meta name="description" content="Adverdox is a premier software company based in Delhi, India, offering innovative digital solutions like custom Website Development, WordPress, Laravel Development, Android App Development, CRM & ERP Software Solutions, Graphics Design, and SEO & Digital Marketing. Empower your business with high-performance solutions that drive growth and success across India.">
+    <meta name="keywords" content="Digital Solutions India, Web Development India, Custom Website Design, WordPress Development, Laravel Development, CRM Solutions, ERP Solutions, Android App Development, SEO Services, Digital Marketing India">
+
+
 
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>

@@ -7,7 +7,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Agenshark - Startup Agency HTML Template</title>
+    <title>Frequently Asked Questions - Adverdox Digital Solutions</title>
+    <meta name="description" content="Find answers to the most common questions about our services including Website Development, CRM Solutions, Android App Development, SEO & Digital Marketing, and more. Learn about our process, pricing, and how we help businesses grow.">
+    <meta name="keywords" content="FAQ, Website Development, CRM Solutions, Android App Development, Digital Marketing, SEO, Web Design India, Digital Solutions, Adverdox FAQ">
+
     <?php include_once('includes/header_link_inc.php'); ?>
 </head>
 
@@ -55,20 +58,13 @@
                                 <h2 class="accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                        What services does your agency provide?
+                                        What services does Adverdox offer?
                                     </button>
                                 </h2>
                                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Absolutely! Whether you're a startup or an established enterprise, our
-                                            services
-                                            are scalable to meet the unique needs
-                                            and budgets of businesses of all sizes. Our agency stands out for its
-                                            collaborative approach, creative expertise, and
-                                            commitment to delivering high-quality results. We prioritize communication,
-                                            innovation, and client satisfaction in every
-                                            project we undertake.
+                                        <p>At Adverdox, we offer a wide range of digital solutions, including custom Website Development, WordPress and Laravel Development, Android App Development, CRM & ERP Solutions, Graphics Design, SEO & Digital Marketing services.
                                         </p>
                                     </div>
                                 </div>
@@ -77,20 +73,13 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Are your services scalable for small businesses?
+                                        How much does a website cost?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
                                     aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Absolutely! Whether you're a startup or an established enterprise, our
-                                            services
-                                            are scalable to meet the unique needs
-                                            and budgets of businesses of all sizes. Our agency stands out for its
-                                            collaborative approach, creative expertise, and
-                                            commitment to delivering high-quality results. We prioritize communication,
-                                            innovation, and client satisfaction in every
-                                            project we undertake.
+                                        <p>The cost of a website varies based on design complexity, features, and customization. Contact us for a personalized quote based on your project requirements.
                                         </p>
                                     </div>
                                 </div>
@@ -100,21 +89,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsethree" aria-expanded="false"
                                         aria-controls="collapsethree">
-                                        Are your services scalable for small businesses?
+                                        Do you provide website hosting services?
                                     </button>
                                 </h2>
                                 <div id="collapsethree" class="accordion-collapse collapse"
                                     aria-labelledby="headingthree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Absolutely! Whether you're a startup or an established enterprise, our
-                                            services
-                                            are scalable to meet the unique needs
-                                            and budgets of businesses of all sizes. Our agency stands out for its
-                                            collaborative approach, creative expertise, and
-                                            commitment to delivering high-quality results. We prioritize communication,
-                                            innovation, and client satisfaction in every
-                                            project we undertake.
-                                        </p>
+                                        <p>While we do not provide web hosting services directly, we can recommend reliable hosting providers based on your needs. We also offer assistance in setting up your website on your chosen hosting platform.</p>
                                     </div>
                                 </div>
                             </div>
@@ -123,20 +104,13 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefour" aria-expanded="false"
                                         aria-controls="collapsefour">
-                                        How do I contact your team for further inquiries?
+                                        Can you integrate my website with third-party tools or software?
                                     </button>
                                 </h2>
                                 <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Absolutely! Whether you're a startup or an established enterprise, our
-                                            services
-                                            are scalable to meet the unique needs
-                                            and budgets of businesses of all sizes. Our agency stands out for its
-                                            collaborative approach, creative expertise, and
-                                            commitment to delivering high-quality results. We prioritize communication,
-                                            innovation, and client satisfaction in every
-                                            project we undertake.
+                                        <p>Yes, we specialize in integrating websites with various third-party tools and APIs, including payment gateways, CRM systems, email marketing platforms, and more. Let us know your integration requirements, and we’ll tailor the solution accordingly.
                                         </p>
                                     </div>
                                 </div>
@@ -146,21 +120,49 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapsefive" aria-expanded="false"
                                         aria-controls="collapsefive">
-                                        What industries does your agency work with?
+                                        What makes Adverdox different from other digital solution providers?
                                     </button>
                                 </h2>
                                 <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive"
                                     data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        <p>Absolutely! Whether you're a startup or an established enterprise, our
-                                            services
-                                            are scalable to meet the unique needs
-                                            and budgets of businesses of all sizes. Our agency stands out for its
-                                            collaborative approach, creative expertise, and
-                                            commitment to delivering high-quality results. We prioritize communication,
-                                            innovation, and client satisfaction in every
-                                            project we undertake.
+                                        <p>At Adverdox, we focus on delivering personalized and tailored digital solutions that align with your business objectives. Our experienced team uses the latest technologies, ensuring top-quality results. We prioritize clear communication, timely delivery, and long-term client relationships
                                         </p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingfive1">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapsefive1" aria-expanded="false"
+                                        aria-controls="collapsefive1">
+                                        Do you offer a guarantee for the projects you deliver?
+                                    </button>
+                                </h2>
+                                <div id="collapsefive1" class="accordion-collapse collapse" aria-labelledby="headingfive1"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>We are committed to delivering high-quality solutions. While we don't offer a 'money-back' guarantee, we ensure that every project is completed to your satisfaction. We provide post-launch support and maintenance to address any issues you may encounter.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="accordion-item">
+                                <h2 class="accordion-header" id="headingfive2">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapsefive2" aria-expanded="false"
+                                        aria-controls="collapsefive2">
+                                        How do you ensure my website is secure?
+                                    </button>
+                                </h2>
+                                <div id="collapsefive2" class="accordion-collapse collapse" aria-labelledby="headingfive2"
+                                    data-bs-parent="#accordionExample">
+                                    <div class="accordion-body">
+                                        <p>We take security seriously and follow industry best practices to protect your website from potential threats. This includes implementing SSL certificates, regular security updates, strong password protocols, and conducting security audits to ensure your website remains safe from cyberattacks.</p>
                                     </div>
                                 </div>
                             </div>
